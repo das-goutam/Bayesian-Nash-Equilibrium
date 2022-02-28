@@ -1,8 +1,8 @@
-# Bayesian-Nash-Equilibrium
-This function computes Bayesian Nash Equilibrium.
+# Bayesian-Nash-Equilibrium \\
+This function computes Bayesian Nash Equilibrium. \\
 
-The function takes two inputs: V and param;
-V is the Value Matrix for 2 by 2 Bayesian Game.
+The function takes two inputs: V and param; \\
+V is the Value Matrix for 2 by 2 Bayesian Game. \\
 Param is the probability of first game over the probability distribution of the two types of games
 For example, 
 Game 1:
